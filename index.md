@@ -8,3 +8,5 @@ This is a new paragraph. *This is italic.* **This is bold.**
 Now I'll add a [link](https://google.com/).
 
 ![alt text](http://imageurl.com).
+
+{% include navigation.html %}
